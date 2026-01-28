@@ -1,6 +1,7 @@
 # HR Attrition Analytics Dashboard
 
 <img width="3366" height="1130" alt="msedge_9JgjIE4RBR" src="https://github.com/user-attachments/assets/27da3c4b-e762-482f-8083-fa89150f04a5" />
+https://public.tableau.com/app/profile/the.gideon/viz/HRAttritionAnalyticsDashboard/HRAnalyticsDashboard
 
 ## Overview
 
