@@ -78,6 +78,4 @@ For implementation in your organization:
 
 ---
 
-**Note for Recruiters**: This dashboard demonstrates my ability to transform raw HR data into actionable business intelligence. The project showcases my skills in data visualization, statistical analysis, and translating technical findings into business insights.
-
 *Created by: Paul Gideon Wabwire*  
